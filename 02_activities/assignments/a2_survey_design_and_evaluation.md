@@ -40,30 +40,34 @@ For the **Canadian General Social Survey on Giving, Volunteering, and Participat
 
 ## Part A - Survey Design: 
 
-The number of your chosen topic: `#`
+The number of your chosen topic: `#1`
 
 Describe the purpose of your survey:
 ```
-write your answer here...
+To understand the reason for high turnovers and the changes that need to be implemented to decrease it and to improve job satisfaction.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+My target population is all the present and past employees that occupy entry- or low-level positions across the various departments during a defined time period.
+My sampling frame is to select past and present employees in various departments occupying those positions from the company directory and HR records.
+My sampling units are the individual employees within different departments.
+My sampling strategy would be to use stratefied sampling, where strata is defined based on departments, job location (remote or in-person), and job type (engineering, administrative, etc.), and team size. Individual employees (past and present) occupying entry- or low-level positions are randomly sampled to take the survey.
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. How many hours, on average, do you work per day (regardless of whether those hours fall outside or within your designated working hours)?
+2. What is your hourly wage?
+3. Do you feel that you are being compensated fairly for hours spent working?
+4. Could you describe your career goals in the form of a detailed and measurable 5 year plan?
+5. Could you summarize your role and its expectations?
+5. Are you aware of any resources and support available to you with regards to your job description and satisfaction?
+6. How comfortable are you with seeking out any of those resources and can you identify any barriers that prevents your access to them?
+7. What are some things that can improve your job satisfaction?
+8. What are some factors that would cause you to leave a job?
+9. Would you recommend this company to someone else who is looking for work?
+10. Are there any additional concerns or issues that you would like to have addressed?
 ```
 
 ## Part B - Survey Evaluation:
@@ -71,7 +75,21 @@ Your 5-10 question survey:
 Identify and describe survey features:
 
 ```
-write your answer here
+1. Sample type - stratified probability sampling
+2. Sample size - 50,000 individuals from each sampled household with expected 24,000 questionnaires completed
+3. Target population - Individuals that are 15 of age and older living in ten provinces of Canada.
+4. Sampling frame - landline and cellular telephone numbers from Census and administrative sources with Statistic Canada's dwelling frame.
+5. Survey mode(s) - electronic questionnaires and telephone interviews
+6. Timeline - collected on activites in the past 12 months counting from September-December of 2018
+7. Response rate - 41.9%
+8. Weights - applied to each province based on population estimates, non-response, income, and demographics
+9. Data processing - data processed with automated editing, consistency validation, imputation, and calibrated weights.
+10. Cleaning, imputation, etc - out of range values and inconsistencies are automatically edited. Missing answers are handled using donor records.
+11. Sources of error - sampling error (smaller subgroups may yield larger variances), non-response error (respondants may be different from non-respondants), coverage error (excluded people residing in terrotories and individuals without stable housing)
+12. Limitations, known biases, etc
+        - Over-reporting of positive behaviours and under-reporting of non-participation
+        - Recall bias where respondents must recall events happening over an entire year
+13. Link to documentation and any additional sources used
 ```
 
 ## Rubric
